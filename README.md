@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Olá! Eu sou Gabriel Santiago
+Desenvolvedor full stack com expertise em Typescript, Angular, Node.js e Python. Tenho uma forte experiência em arquitetura de software e integração de APIs. Atualmente, estou me especializando em desenvolvimento Android com Kotlin e estou animado para aplicar meus conhecimentos nessa área.
 
-<!--
-**GabrielSantiag/GabrielSantiag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologias e Ferramentas
+Linguagens: Typescript, Python, Java, Kotlin,
 
-Here are some ideas to get you started:
+Frameworks: Angular, FastApi, Django, Flask e Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outros: APIs REST, Banco de Dados e Android
+
+📫 Entre em Contato
+linkedin.com/in/gabriel-santiago-moreno
+
+gabriel.santiago.eno@gmail.com
+
+Estou comprometido com a excelência e pronto para trazer inovação e qualidade.
