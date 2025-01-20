@@ -1,7 +1,7 @@
 
 
 
-## Olá eu sou a Gabriel Santiago, desenvoledor full-stack!
+## Olá eu sou a Gabriel Santiago, desenvolvedor full-stack!
 
 👋 Olá! Eu sou Gabriel Santiago
 Desenvolvedor full stack com expertise em Typescript, Angular, Node.js e Python. Tenho uma forte experiência em arquitetura de software e integração de APIs. Atualmente, estou me especializando em desenvolvimento Android com Kotlin e estou animado para aplicar meus conhecimentos nessa área.
